@@ -16,7 +16,7 @@ namespace PyxisAirGroupProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PyxisAirMain());
+            Application.Run(new MainForm());
         }
     }
 }

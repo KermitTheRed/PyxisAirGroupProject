@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace PyxisAirGroupProject
 {
-    public partial class PyxisAirMain : Form
+    public partial class CustomerForm : Form
     {
-        public PyxisAirMain()
+        public CustomerForm()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void PyxisAirMain_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
