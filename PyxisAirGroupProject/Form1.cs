@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PyxisAirGroupProject
 {
-    public partial class Form1 : Form
+    public partial class PyxisAirMain : Form
     {
-        public Form1()
+        public PyxisAirMain()
         {
             InitializeComponent();
         }
