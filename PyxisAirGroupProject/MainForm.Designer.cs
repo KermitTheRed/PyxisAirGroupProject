@@ -52,6 +52,7 @@
             this.Exitbtn.TabIndex = 1;
             this.Exitbtn.Text = "Exit";
             this.Exitbtn.UseVisualStyleBackColor = true;
+            this.Exitbtn.Click += new System.EventHandler(this.Exitbtn_Click);
             // 
             // FlightBTN
             // 
@@ -61,6 +62,7 @@
             this.FlightBTN.TabIndex = 2;
             this.FlightBTN.Text = "Flight Form";
             this.FlightBTN.UseVisualStyleBackColor = true;
+            this.FlightBTN.Click += new System.EventHandler(this.FlightBTN_Click);
             // 
             // RSVBTN
             // 
@@ -70,6 +72,7 @@
             this.RSVBTN.TabIndex = 3;
             this.RSVBTN.Text = "Reservation Form";
             this.RSVBTN.UseVisualStyleBackColor = true;
+            this.RSVBTN.Click += new System.EventHandler(this.RSVBTN_Click);
             // 
             // MainForm
             // 

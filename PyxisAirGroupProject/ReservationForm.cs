@@ -16,5 +16,10 @@ namespace PyxisAirGroupProject
         {
             InitializeComponent();
         }
+
+        private void flightFormToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

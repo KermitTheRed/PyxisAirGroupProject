@@ -16,5 +16,14 @@ namespace PyxisAirGroupProject
         {
             InitializeComponent();
         }
+
+        private void flightFormToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            String n;
+            n = toolStripTextBox1.Text;
+            listBox1.Items.Add(n);
+        }
+
+       
     }
 }
