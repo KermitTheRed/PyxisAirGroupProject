@@ -21,5 +21,10 @@ namespace PyxisAirGroupProject
         {
 
         }
+
+        private void PyxisAirMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
